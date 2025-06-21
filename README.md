@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0e7490&height=200&section=header&text=Hi%20I'm%20Asadi%20Meghana&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=220&section=header&text=Hi%20I'm%20Asadi%20Meghana&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 # 👋 Hello World, I'm **Asadi Meghana**  
 > 🗣️ *Pronounced:* Ah-suh-dee Meh-ghuh-nuh | (She/Her)
@@ -26,7 +25,7 @@ I’m not a software developer yet — but I’m building the skills, confidence
 
 ## 🧠 Currently Learning
 
-![Currently learning](https://img.shields.io/badge/Currently%20Learning-Flask%20%7C%20Git%20%7C%20SQL-blue?style=flat-square)
+![Currently learning](https://img.shields.io/badge/Currently%20Learning-Flask%20%7C%20Pandas%20%7C%20Deep%20DSA-blue?style=flat-square)
 
 ---
 
@@ -50,9 +49,10 @@ I’m not a software developer yet — but I’m building the skills, confidence
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-**Exploring**
+**Exploring**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![DSA](https://img.shields.io/badge/Deep%20DSA-FB8500?style=flat-square&logo=codewars&logoColor=white)
 
 ---
 
@@ -66,19 +66,11 @@ They might be small — but they’re mine.
 
 ---
 
-## 📊 GitHub Stats
-
-![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghanaReddyA&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaReddyA&layout=compact&theme=tokyonight)
-
----
-
 ## 🎈 Fun Fact
 
 I treat every error like a clue, every project like a puzzle, and every "I don't know" as a chance to grow.  
-Once I understand something, I don’t forget it — I own it.  
-💡 I learn by breaking things, fixing them, and asking “why” until it makes sense.
+💡 I learn by breaking things, fixing them, and asking “why” until it makes sense.  
+Once I understand something, I don’t forget it — I own it.
 
 ---
 
